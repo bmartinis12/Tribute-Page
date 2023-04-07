@@ -1,0 +1,44 @@
+#image {
+  display: block;
+  max-width: 100%;
+  height: auto;
+  margin: auto;
+}
+#img-div{
+  background-color: white; 
+  padding: 5 20 5 20;
+}
+#img-caption{
+  background-color: white;
+  text-align: center; 
+  padding-top: 5px;
+}
+header{
+  text-align: center;
+}
+*{
+  background-color: rgb(255,255,240);
+  font-family: Georgia, Arial; 
+}
+footer > p, a{
+  background-color: white;
+  text-align: center;
+}
+footer{
+  padding: 5 20 5 20;
+  max-width: 100%;
+  display: block; 
+}
+#tribute-info{
+  margin: auto auto;
+}
+figcaption{
+  text-align: center;
+}
+li{
+  max-width: 100%;
+  padding-bottom: 10px;
+}
+#tribute-info > p, #tribute-info > h2 {
+  text-align: center;
+}
